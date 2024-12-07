@@ -1,6 +1,5 @@
 # 💫 About Me:
-🎓 A Dedicated software engineering student with a focus on cross-platform mobile application development. I am passionate about crafting intuitive and accessible user experiences across diverse devices. Through practical experience with frameworks such as Flutter and Firebase, I have honed my skills in implementing seamless navigation, advanced API integrations, and robust application architecture. I thrive in collaborative environments and am committed to continuous learning in this rapidly evolving field. My aim is to contribute to innovative projects that positively impact users worldwide. 
-📫 Get in Touch Email: sisshmue404@gmail.com
+🎓 A Dedicated software engineering student with a focus on cross-platform mobile application development. I am passionate about crafting intuitive and accessible user experiences across diverse devices. Through practical experience with frameworks such as Flutter and Firebase, I have honed my skills in implementing seamless navigation, advanced API integrations, and robust application architecture. I thrive in collaborative environments and am committed to continuous learning in this rapidly evolving field. My aim is to contribute to innovative projects that positively impact users worldwide.  📫 Get in Touch Email: sisshmue404@gmail.com
 
 
 ## 🌐 Socials:
